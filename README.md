@@ -14,7 +14,7 @@ simples cadastro de registros de jogadores de eSports, na qual é possível apli
 manipulações como inserção, remoção, atualização e consulta de jogadores
 utilizando arquivos.
 
-ESTRUTURA OBRIGATÓRIA DO JOGADOR:
+#### ESTRUTURA OBRIGATÓRIA DO JOGADOR:
 - Nome do Jogador
 - Data de Nascimento
 - CPF
@@ -41,7 +41,7 @@ ESTRUTURA OBRIGATÓRIA DO JOGADOR:
 - Quantidade de títulos que o jogador ganhou
 - Posição do rank mundial
 
-FUNCIONALIDADES OBRIGATÓRIAS:
+#### FUNCIONALIDADES OBRIGATÓRIAS:
 - Funções para a escrita e leitura de diferentes jogadores e de todos os
 dados que o norteiam. Assim possibilitando cadastro de jogadores.
 - Possibilitar a alteração, ou seja, correção dos dados de um jogador.
@@ -61,10 +61,7 @@ valor
 - Mostrar a quantidade média de seguidores de um jogador do
 campeonato, ou seja, um jogador do campeonato possui em média
 quantos seguidores.
-A SUA BASE DE DADOS DEVE SER ARMAZENADA E MANIPULADA EM
 
-ARQUIVOS BINÁRIOS.
+A SUA BASE DE DADOS DEVE SER ARMAZENADA E MANIPULADA EMARQUIVOS BINÁRIOS.
 
-Faça um MENU textual para permitir manipulação das funções existentes
-
-no sistema!!!
+Faça um MENU textual para permitir manipulação das funções existentes no sistema!!!
