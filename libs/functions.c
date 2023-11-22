@@ -102,6 +102,8 @@ void listarAlfabetico()
             break;
         }
     }
+
+    printVetor(jogadoresLidos, size);
     
     fclose(file);
 }
