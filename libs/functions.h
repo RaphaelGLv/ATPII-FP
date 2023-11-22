@@ -51,6 +51,7 @@ typedef struct jogador
     DADOSCAMP dadoscamp;
 } JOGADOR;
 
+void printVetor(JOGADOR vetor[], int size);
 void inserirJogadoresVetor(JOGADOR jogadores[], int n);
 void escreverJogadoresArquivo(JOGADOR jogadores[], int n);
 void lerJogadoresArquivo(JOGADOR jogadores[], int n);
@@ -67,5 +68,4 @@ void buscaNome();
 void buscaPosicao();
 void printSeguidores();
 
-#include "functions.c"
 #endif // FUNCTIONS_
