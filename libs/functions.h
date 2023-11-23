@@ -64,8 +64,8 @@ void listarVitoria();
 void printClassificacao();
 void printJogadorPontuacaoMaior();
 void printJogadorPontuacaoMenor();
-void buscaNome();
-void buscaPosicao();
 void printSeguidores();
+int buscaNome(char nome[30]);
+int buscaPosicao(int searchPos);
 
 #endif // FUNCTIONS_
