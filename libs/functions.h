@@ -27,9 +27,10 @@ typedef struct dadoscamp
 {
     int pontcamp;
     int numvit;
-    int numdef;
     int numemp;
+    int numdef;
     int qntTitle;
+    int total_jogos;
     int posRanking;
 } DADOSCAMP;
 
@@ -51,21 +52,21 @@ typedef struct jogador
     DADOSCAMP dadoscamp;
 } JOGADOR;
 
+JOGADOR *inserirJogadoresVetor(int tam);
 void printVetor(JOGADOR vetor[], int size);
-void inserirJogadoresVetor(JOGADOR jogadores[], int n);
-void escreverJogadoresArquivo(JOGADOR jogadores[], int n);
-void lerJogadoresArquivo(JOGADOR jogadores[], int n);
+void escreverJogadoresArquivo(JOGADOR *jogadores, int tam);
+void lerJogadoresArquivo();
 void printJogadoresVetor(JOGADOR jogadores[], int n);
 void editarJogador();
 void editarPontuacaoJogador();
 void listarAlfabetico();
 void listarPosicao();
 void listarVitoria();
-void printClassificacao();
+void printClassificacaoMundial();
 void printJogadorPontuacaoMaior();
 void printJogadorPontuacaoMenor();
 void printSeguidores();
-int buscaNome(char nome[30]);
-int buscaPosicao(int searchPos);
+void buscaNome();
+void buscaPosicao();
 
 #endif // FUNCTIONS_
