@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <locale.h>
+#include <ctype.h>
 
 #include "libs/functions.h"
 
@@ -9,7 +10,8 @@ int main()
 {
     setlocale(LC_ALL, "Portuguese");
 
-    int num, tam;
+    int num, aux;
+    char nome[30];
 
     do
     {
@@ -29,6 +31,7 @@ int main()
         printf("| 12 - Exibir a quantidade de seguidores media por jogador cadastrado   |\n");
         printf("| 0 - Sair                                                              |\n");
         printf("=========================================================================\n");
+        printf("> ");
 
         scanf("%d", &num);
 
@@ -39,59 +42,80 @@ int main()
 
         case 1:
             printf("\nInsira quantos jogadores deseja cadastrar: ");
-            scanf("%d", &tam);
+            scanf("%d", &aux);
 
-            escreverJogadoresArquivo(inserirJogadoresVetor(tam), tam);
+            escreverJogadoresArquivo(inserirJogadoresVetor(aux), aux);
 
+            system("pause");
             break;
 
         case 2:
-            // editarJogador();
+            editarJogador();
+            system("pause");
             break;
 
         case 3:
-            // editarPontuacaoJogador();
+            atualiza_camp();
+            system("pause");
             break;
 
         case 4:
             listarAlfabetico();
+            system("pause");
             break;
 
         case 5:
             printClassificacaoMundial();
+            system("pause");
             break;
 
         case 6:
             listarVitoria();
+            system("pause");
             break;
 
         case 7:
             listarPosicao();
+            system("pause");
             break;
 
         case 8:
-            // printJogadorPontuacaoMaior();
+            printf("Insira a pontuacao minima desejada: ");
+            scanf("%d", &aux);
+
+            printJogadorPontuacaoMaior(aux);
+            system("pause");
             break;
 
         case 9:
-            // printJogadorPontuacaoMenor();
+            printf("Insira a pontuacao maxima desejada: ");
+            scanf("%d", &aux);
+
+            printJogadorPontuacaoMenor(aux);
+            system("pause");
             break;
 
         case 10:
-            // buscaNome();
+            buscaNome();
+            system("pause");
             break;
 
         case 11:
             buscaPosicao();
+            system("pause");
             break;
 
         case 12:
             printSeguidores();
+            system("pause");
             break;
 
         default:
             printf("Insira um numero valido!\n");
+            fflush(stdin);
+            system("pause");
             break;
         }
+
     } while (num != 0);
 }

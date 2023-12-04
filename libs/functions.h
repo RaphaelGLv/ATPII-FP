@@ -20,7 +20,7 @@ typedef struct hardware
     char model[15];
     char proces[10];
     char placa_video[10];
-    int memRam;
+    char memRam[10];
 } HARDWARE;
 
 typedef struct dadoscamp
@@ -58,13 +58,13 @@ void escreverJogadoresArquivo(JOGADOR *jogadores, int tam);
 void lerJogadoresArquivo();
 void printJogadoresVetor(JOGADOR jogadores[], int n);
 void editarJogador();
-void editarPontuacaoJogador();
+void atualiza_camp();
 void listarAlfabetico();
 void listarPosicao();
 void listarVitoria();
 void printClassificacaoMundial();
-void printJogadorPontuacaoMaior();
-void printJogadorPontuacaoMenor();
+void printJogadorPontuacaoMaior(int pts);
+void printJogadorPontuacaoMenor(int pts);
 void printSeguidores();
 void buscaNome();
 void buscaPosicao();

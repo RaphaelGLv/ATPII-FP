@@ -1,0 +1,641 @@
+32
+Abelardo Manejos
+10/03/1984
+529.183.740-12
+Masculino
+Casado
+Pizzaria Pomodoro
+@abelars_manejos
+83105
+Funilaria 51
+@51funis
+53105
+Positivo
+Intel Pentium
+--
+810MB
+408
+0
+0
+51
+1
+Manuel Gomes
+14/12/1973
+053.543.792-10
+Masculino
+Solteiro
+Bic
+@bluePen
+9501949
+Palmeiras
+@crocodilhoamazonense
+5123824
+Acer
+i9 13gen
+RTX 4070
+32GB
+398
+0
+5
+48
+2
+Geovana
+8/8/2004
+42281722880
+Feminino
+Casado
+unesp
+ge.tkelpie
+1980
+team kelpie
+@t.kelpie
+61892
+dell g15
+i5 9400
+rtx 3060
+16GB
+42
+13
+9
+8
+10
+Vitor
+30/9/2004
+45618562855
+Masculino
+Casado
+unesp
+vi.tkelpie
+920
+team kelpie
+@t.kelpie
+61892
+dell 20
+i7 12100
+rtx 4090
+16GB
+32
+12
+12
+5
+2
+Pedro
+20/9/2001
+76240681253
+Masculino
+Solteiro
+unesp
+pedro.tkelpie
+560
+team kelpie
+@t.kelpie
+61892
+hp h12
+ryzen 5 5600
+gtx 1660
+16GB
+21
+12
+24
+3
+3
+Jose
+30/9/2000
+66332246308
+Masculino
+Divorciado
+unesp
+ze.tkelpie
+995
+team kelpie
+@t.kelpie
+61892
+hp h20
+i9 13900
+rtx 4090
+16GB
+14
+12
+9
+2
+4
+Jonas
+20/8/2000
+81841034410
+Outro
+Solteiro
+unesp
+jonas.tkelpie
+300
+team kelpie
+@t.kelpie
+61892
+dell g15
+i5 9400
+gtx 2060
+16GB
+8
+10
+6
+1
+5
+Joao
+2/2/2001
+44937376543
+Outro
+Casado
+unesp
+joao.tkelpie
+120
+team kelpie
+@t.kelpie
+61892
+dell g15
+i5 9400
+gtx 1080 ti
+16GB
+5
+5
+2
+0
+6
+Bruno
+22/9/1999
+13231483379
+Masculino
+Casado
+unesp
+bruno.tkelpie
+1000
+team kelpie
+@t.kelpie
+61892
+dell g18
+i3 91000
+gtx 1020
+16GB
+3
+0
+0
+0
+7
+Maria
+12/1/2000
+46611821546
+Feminino
+Divorciado
+unesp
+maria.tkelpie
+1200
+team kelpie
+@t.kelpie
+61892
+lenovo i19
+i9 12000
+gtx iron
+16GB
+5
+1
+0
+0
+8
+Leonardo
+30/12/1999
+46327915396
+Masculino
+Viuvo
+unesp
+leo.tkelpie
+1010
+team kelpie
+@t.kelpie
+61892
+lenovo i12
+i5 12000
+gtx 1200
+16GB
+8
+2
+4
+0
+9
+Ravi
+20/6/2003
+39473084854
+Masculino
+Solteiro
+unesp
+ravi.tphoenix
+315
+team phoenix
+@t.phoenix
+15125
+dell g22
+i5 2000
+gtx space
+16GB
+4
+1
+5
+0
+10
+Henrique
+12/2/2001
+38546113238
+Outro
+Solteiro
+unesp
+henr.tphoenix
+1100
+team phoenix
+@t.phoenix
+15125
+dell g10
+i9 1020
+gtx space
+32GB
+2
+3
+6
+0
+11
+Firmina
+17/1/2005
+08449781167
+Outro
+Viuvo
+unesp
+firm.tphoenix
+130
+team phoenix
+@t.phoenix
+15125
+hp h12
+ryzen 3 3800
+rx 580
+32GB
+1
+2
+12
+0
+12
+Eduarda
+19/2/2000
+44754335333
+Feminino
+Casado
+unesp
+duda.tphoenix
+1230
+team phoenix
+@t.phoenix
+15125
+lg 123
+i5 2012
+rtx latex
+32GB
+5
+0
+0
+0
+13
+Laercio
+12/12/2001
+84191651749
+Masculino
+Casado
+unesp
+laercio.tphoenix
+100
+team phoenix
+@t.phoenix
+15125
+lenovo a12
+ryzen 7 7200
+rtx latex
+32GB
+2
+2
+2
+0
+14
+Felipe
+12/9/2001
+84222884944
+Masculino
+Casado
+unesp
+fe.tphoenix
+201
+team phoenix
+@t.phoenix
+15125
+lg l12
+amd fx
+rx 5050
+32GB
+4
+2
+6
+0
+15
+Cae
+30/2/2002
+36066614797
+Masculino
+Casado
+unesp
+cae.tphoenix
+200
+team phoenix
+@t.phoenix
+15125
+dell g15
+rtx space
+gtx 2010
+32GB
+2
+2
+2
+0
+16
+Fabio
+22/2/2001
+83345466376
+Masculino
+Casado
+unesp
+fabio.tphoenix
+210
+team phoenix
+@t.phoenix
+15125
+dell g15
+i5 9000
+rtx latex
+32GB
+3
+3
+3
+0
+17
+Victor
+16/12/1998
+31884854257
+Masculino
+Viuvo
+unesp
+victor.tphoenix
+1230
+team phoenix
+@t.phoenix
+15125
+hp h120
+i5 1900
+rx 1230
+32GB
+0
+2
+2
+0
+18
+Lacerda
+12/12/1998
+26704039724
+Masculino
+Solteiro
+unesp
+lacerda.taqua
+123
+team aqua
+@t.aqua
+62359
+dell g123
+i5 9000
+rtx space
+32GB
+4
+2
+12
+0
+19
+Tiago
+12/3/2009
+55432151693
+Outro
+Solteiro
+unesp
+ti.taqua
+560
+team aqua
+@t.aqua
+62359
+dell g29
+i3 9210
+rtx 2090
+32GB
+2
+2
+5
+0
+20
+Jeanm
+30/9/2000
+77179341673
+Masculino
+Casado
+unesp
+jean.taqua
+895
+team aqua
+@t.aqua
+62359
+dell g12
+i5 9000
+rx 1234
+4GB
+0
+2
+0
+0
+21
+Miguel
+23/6/1998
+27670742569
+Outro
+Solteiro
+unesp
+mi.taqua
+22
+team aqua
+@t.aqua
+62359
+lenovo 1a2
+i7 9000
+gtx 1070
+4GB
+4
+1
+5
+0
+22
+Rioner
+22/2/2001
+27540461276
+Outro
+Divorciado
+unesp
+rio.taqua
+1230
+team aqua
+@t.aqua
+62359
+dell g18
+i5 9900
+rx 1230
+4GB
+0
+0
+0
+0
+23
+Erick
+4/4/2004
+42522863282
+Masculino
+Casado
+unesp
+erick.taqua
+100
+team aqua
+@t.aqua
+62359
+hp h12
+i5 120
+gtx 1080 ti
+4GB
+4
+1
+2
+0
+24
+Erickson
+12/12/2001
+51946150274
+Masculino
+Casado
+unesp
+ckson.taqua
+130
+team aqua
+@t.aqua
+62359
+asus empire
+i3 9900
+gtx 1050 ti
+4GB
+2
+2
+2
+0
+25
+Helena
+2/2/2000
+16465156334
+Feminino
+Solteiro
+unesp
+hele.tmagma
+12000
+team magma
+@t.magma
+85139
+asus empire
+amd fx
+asus 1200
+8GB
+5
+5
+0
+0
+26
+Dora
+20/2/1998
+70871624117
+Outro
+Divorciado
+unesp
+dora.tmagma
+12
+team magma
+@t.magma
+85139
+dell g50
+pentium 
+rx 550
+8GB
+0
+2
+5
+0
+27
+Diego
+29/10/2010
+35532123306
+Masculino
+Casado
+unesp
+di.tmagma
+1000
+team magma
+@t.magma
+85139
+lenovo l92
+i7 9200
+rx 4090
+8GB
+5
+0
+5
+0
+28
+Susan
+30/9/2004
+16374257596
+Feminino
+Solteiro
+unesp
+su.tmagma
+1000
+team magma
+@t.magma
+85139
+dell g18
+i5 1920
+rx 1230
+8GB
+2
+2
+2
+0
+29
+Carlos
+27/7/2000
+36487844713
+Masculino
+Solteiro
+unesp
+carlos.tmagma
+20
+team magma
+@t.magma
+85139
+dell l5
+pentium
+rx 120
+8GB
+0
+1
+8
+0
+30
